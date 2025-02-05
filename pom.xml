@@ -97,6 +97,11 @@
 			<version>0.12.3</version>
 			<scope>runtime</scope>
 		</dependency>
+		<dependency>
+			<groupId>com.palmen</groupId>
+			<artifactId>supermarket</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
 	</dependencies>
 
 	<build>
